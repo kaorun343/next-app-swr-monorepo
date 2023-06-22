@@ -1,0 +1,14 @@
+{
+  "name": "@reproduction/shared",
+  "private": true,
+  "packageManager": "yarn@3.6.0",
+  "dependencies": {
+    "swr": "^2.1.5"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "*"
+  }
+}

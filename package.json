@@ -1,0 +1,15 @@
+{
+  "name": "next-app-swr-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "packageManager": "yarn@3.6.0",
+  "volta": {
+    "node": "18.16.1",
+    "yarn": "1.22.19"
+  },
+  "workspaces": [
+    "frontend",
+    "shared"
+  ]
+}
